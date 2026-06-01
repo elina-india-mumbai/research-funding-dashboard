@@ -14,6 +14,7 @@ AGENCIES = {
     "HHS": "Department of Health and Human Services",
     "DHS": "Department of Homeland Security",
     "NSF": "National Science Foundation",
+    "NASA": "National Aeronautics and Space Administration",
 }
 
 HE_RECIPIENT_TYPES = [
